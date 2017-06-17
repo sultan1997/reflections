@@ -2,3 +2,8 @@
 A) when initializing new repository , we create its history which has no 
 contents in it in beginning. We need it to save different kinds of versions
 instead of writing the code again.
+
+2)How is staging area different from the working directory and the repository? 
+What value do you think it offers?
+A) staging area is the part of git which decides which files must be included
+in the commit and makes the commit less congested .
