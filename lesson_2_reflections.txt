@@ -1,0 +1,4 @@
+1) what happens when you initialize a repository? why do you need to do it?
+A) when initializing new repository , we create its history which has no 
+contents in it in beginning. We need it to save different kinds of versions
+instead of writing the code again.
