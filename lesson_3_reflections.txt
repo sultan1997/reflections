@@ -1,2 +1,8 @@
 1) When would you want to use a remote repository rather than keeping all your work local?
-A) when i want to show my work to public on gitHub then i will use remote repository
+A) when i want to show my work to public on gitHub then i will use remote 
+repository
+
+2) Why might you want to always pull changes manually rather then having Git 
+automatically stay up-to-date with your remote repository?
+A) so that we can complete our changes and then commit . If git automatically
+does then there would be too many commits.
