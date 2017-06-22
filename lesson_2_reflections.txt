@@ -20,3 +20,12 @@ helpful . brancing helps in classifying different changes.
 5) How do the diagrams help you visualize the branch structure?
 A) diagrams makes it easier to understand the branch structure since it shows 
 visual connection.
+
+6) What is the result of merging two branches together? Why do we represent it
+in the diagram the way we do?
+A) merging two file combines the changes made in two branches . We represent it in a diagram because its easy to understand.
+
+7) What are pros and cons of Git's automatic merging vs. always doing merges
+manually?
+A) automatic merges is fast but git cant differentiate which changes to keep and it creates confict. While manual merges may take time to resolve conflict but 
+it makes sures that all the changes are done according to programmer's choice 
