@@ -11,3 +11,8 @@ does then there would be too many commits.
 A) fork is used for copying repository of other users on your GitHub account.
 clones are used to download repository on internet directly on your computer.
 branches are used to separate different changes and test it on your computer.
+
+4) What is the benefit of having a copy of the last known state of the remote 
+stored locally?
+A) if there is a bug or a mistake in the file then we can go to previous state 
+to restore it.
