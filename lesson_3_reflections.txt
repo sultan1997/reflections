@@ -21,3 +21,7 @@ to restore it.
 A) without using Git or GitHub i would sit together with my collaborater if he
 is nearby , this will make the project completion much faster . however it will 
 be harder to collaborate if we are separated by distance.
+
+6)When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A) when i am collaborating with other people and want to check my changes then i will make it in separate branch since it wont disturb my main branch . however if i am working alone on project then i will make changes directly on my main 
+branch with commits.
