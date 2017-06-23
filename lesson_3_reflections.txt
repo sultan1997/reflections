@@ -16,3 +16,8 @@ branches are used to separate different changes and test it on your computer.
 stored locally?
 A) if there is a bug or a mistake in the file then we can go to previous state 
 to restore it.
+
+5) How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A) without using Git or GitHub i would sit together with my collaborater if he
+is nearby , this will make the project completion much faster . however it will 
+be harder to collaborate if we are separated by distance.
