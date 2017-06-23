@@ -6,3 +6,8 @@ repository
 automatically stay up-to-date with your remote repository?
 A) so that we can complete our changes and then commit . If git automatically
 does then there would be too many commits.
+
+3) Describe the difference between forks, clones , and branches . When would you use one instead of another?
+A) fork is used for copying repository of other users on your GitHub account.
+clones are used to download repository on internet directly on your computer.
+branches are used to separate different changes and test it on your computer.
